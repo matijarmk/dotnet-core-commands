@@ -5,18 +5,18 @@ dotnet core commands
 <br>
 </h1>
 <h4 align="center">Create and modify your dotnet core project. </h4>
-<p align="center">Run dotnet commands from VSCode command panel with default logging. Select the right category and manage NuGet packages and run SKD or EntityFrameworkCore migration commands <a href="https://github.com/matijarmk/dotnet-core-commands/wiki"> Learn More</a>
+<p align="center">Run dotnet from VSCode command panel with default logging. Select the right category and manage NuGet packages, use dotnet core commands and try out EntityFrameworkCore migrations made easy just for you. <a href="https://github.com/matijarmk/dotnet-core-commands/wiki"> Learn More</a>
 </p>
 <h4 align="center">
 
 [![VS Marketplace Installs](https://vsmarketplacebadge.apphb.com/installs/matijarmk.dotnet-core-commands.svg)](https://marketplace.visualstudio.com/items?itemName=matijarmk.dotnet-core-commands)
 [![VS Marketplace Installs](https://vsmarketplacebadge.apphb.com/rating-short/matijarmk.dotnet-core-commands.svg)](https://marketplace.visualstudio.com/items?itemName=matijarmk.dotnet-core-commands)
-
 [![GitHub issues](https://img.shields.io/github/issues/matijarmk/dotnet-core-commands.svg)](https://github.com/matijarmk/dotnet-core-commands/issues)
 [![GitHub license](https://img.shields.io/github/license/matijarmk/dotnet-core-commands.svg)](https://github.com/matijarmk/dotnet-core-commands/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/matijarmk/dotnet-core-commands.svg)](https://github.com/matijarmk/dotnet-core-commands.svg/releases) [![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/matijarmk.dotnet-core-commands.svg)](https://vsmarketplacebadge.apphb.com/version-short/matijarmk.dotnet-core-commands.svg) 
 
 </h4>
+
 ### Usage
 
 * Simply hit CMD/CTRL + Shift + P or Press F1
