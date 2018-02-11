@@ -1,11 +1,18 @@
 {
     "name": "dotnet-core-commands",
-    "displayName": "dotnet-commands",
-    "description": "Extention for running dotnet SKD commands, EntityFramework migrations and managing NuGet Packages",
+    "displayName": "dotnet core commands",
+    "description": "Dotnet core SKD commands, EntityFrameworkCore migrations and NuGet Package management",
+    "license": "MIT License",    
     "version": "1.0.0",
-    "publisher": "Matija Ramšak",
+    "author": "Matija Ramšak",
+    "publisher": "matijarmk",
     "engines": {
         "vscode": "^1.20.0"
+    },
+    "icon":"images/Logo.png",
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
     },
     "categories": [
         "Other"
@@ -29,6 +36,15 @@
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "npm run compile && node ./node_modules/vscode/bin/test"
     },
+    "bugs": {
+        "url": "https://github.com/matijarmk/dotnet-core-commands/issues",
+        "email": "matijarmk@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/matijarmk/dotnet-core-commands"
+    },
+    "homepage": "https://github.com/matijarmk/dotnet-core-commands/blob/master/README.md",
     "devDependencies": {
         "typescript": "^2.7.1",
         "vscode": "^1.1.10",
