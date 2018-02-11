@@ -10,10 +10,6 @@
         "vscode": "^1.20.0"
     },
     "icon":"images/Logo.png",
-    "galleryBanner": {
-        "color": "#C80000",
-        "theme": "dark"
-    },
     "categories": [
         "Other"
     ],
