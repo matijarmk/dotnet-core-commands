@@ -38,7 +38,7 @@ dotnet core commands
 
 ![categories](images/packages.gif)
 
-* You won't have to bother remembering commands anytime soon. Because we also support EntityFrameworkCore migrations.
+* You won't have to bother remembering commands anytime soon, because we also support EntityFrameworkCore migrations.
 
 ![categories](images/migrations.gif)
 
