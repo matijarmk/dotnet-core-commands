@@ -8,7 +8,7 @@ dotnet core commands
 <p align="center">Run dotnet from VSCode command panel with default logging. Select the right category and manage NuGet packages, use dotnet core commands and try out EntityFrameworkCore migrations made easy just for you. <a href="https://github.com/matijarmk/dotnet-core-commands/wiki"> Learn More</a>
 </p>
 <h4 align="center">
-
+ 
 [![VS Marketplace Installs](https://vsmarketplacebadge.apphb.com/installs/matijarmk.dotnet-core-commands.svg)](https://marketplace.visualstudio.com/items?itemName=matijarmk.dotnet-core-commands)
 [![VS Marketplace Installs](https://vsmarketplacebadge.apphb.com/rating-short/matijarmk.dotnet-core-commands.svg)](https://marketplace.visualstudio.com/items?itemName=matijarmk.dotnet-core-commands)
 [![GitHub issues](https://img.shields.io/github/issues/matijarmk/dotnet-core-commands.svg)](https://github.com/matijarmk/dotnet-core-commands/issues)
