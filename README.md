@@ -1,13 +1,15 @@
-<h1 align="center">
-<a href="https://github.com/matijarmk/dotnet-core-commands"><img src="https://raw.githubusercontent.com/matijarmk/dotnet-core-commands/master/images/Logo.png" alt="dotnet core commands" width="160"></a>
-<br>
-dotnet core commands
-<br>
-</h1>
-<h4 align="center">Create and modify your dotnet core project. </h4>
-<p align="center">Run dotnet from VSCode command panel with default logging. Select the right category and manage NuGet packages, use dotnet core commands and try out EntityFrameworkCore migrations made easy just for you. <a href="https://github.com/matijarmk/dotnet-core-commands/wiki"> Learn More</a>
-</p>
-<h4 align="center">
+
+
+
+#  Dotnet core commands
+
+
+`Create and modify your dotnet core projects with ease.`
+
+Run dotnet from VSCode command panel with default logging. By selecting the right category, you can easily manage NuGet packages, use dotnet core commands and try out EntityFrameworkCore migrations. 
+[Learn more](https://github.com/matijarmk/dotnet-core-commands/wiki)
+
+
 
 [![VS Marketplace Installs](https://vsmarketplacebadge.apphb.com/installs/matijarmk.dotnet-core-commands.svg)](https://marketplace.visualstudio.com/items?itemName=matijarmk.dotnet-core-commands)
 [![VS Marketplace Installs](https://vsmarketplacebadge.apphb.com/rating-short/matijarmk.dotnet-core-commands.svg)](https://marketplace.visualstudio.com/items?itemName=matijarmk.dotnet-core-commands)
@@ -26,19 +28,23 @@ dotnet core commands
 
 ### Specific feature descriptions.
 
-* Easily display all command categories, by writing dotnet.
+* By writing dotnet, all command categories become displayed.
 
 ![categories](images/category.gif)
 
-* Commands for creating, running and building dotnet core projects and much more.
+* Commands for creating, running and building dotnet core projects plus so much more.
 
 ![categories](images/SDKcommands.gif)
 
-* NuGet package management. Removing and adding latest NuGet packages was never done easier.
+* NuGet package management. Removing and adding latest NuGet packages has never been easier.
 
 ![categories](images/packages.gif)
 
-* You won't have to bother remembering commands anytime soon, because we also support EntityFrameworkCore migrations.
+<<<<<<< HEAD
+* We also support EntityFrameworkCore migrations, so you don't have to bother with remembering commands anymore.
+=======
+* You won't have to bother remembering commands anytime soon. Because we also support EntityFrameworkCore migrations.
+>>>>>>> parent of b102fe0... logo change and grammar fix
 
 ![categories](images/migrations.gif)
 
@@ -46,7 +52,7 @@ dotnet core commands
 
 ## Requirements
 
-1. `.NET Core SDK` instalation on your system from [microsoft](https://www.microsoft.com/net/download)
+1. `.NET Core SDK` installation on your system from [microsoft](https://www.microsoft.com/net/download)
 
 2. Added DotNetCliToolReference on \*.cproj
 
