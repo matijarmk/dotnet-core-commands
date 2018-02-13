@@ -40,11 +40,8 @@ Run dotnet from VSCode command panel with default logging. By selecting the righ
 
 ![categories](images/packages.gif)
 
-<<<<<<< HEAD
+
 * We also support EntityFrameworkCore migrations, so you don't have to bother with remembering commands anymore.
-=======
-* You won't have to bother remembering commands anytime soon. Because we also support EntityFrameworkCore migrations.
->>>>>>> parent of b102fe0... logo change and grammar fix
 
 ![categories](images/migrations.gif)
 
@@ -75,7 +72,7 @@ Run dotnet from VSCode command panel with default logging. By selecting the righ
 <!-- ### 1.0.1
 
 Fixed issue #.
-
+ 
 ### 1.1.0
 
 Added features X, Y, and Z. -->
