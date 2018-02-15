@@ -15,7 +15,7 @@ Run dotnet from VSCode command panel with default logging. By selecting the righ
 [![VS Marketplace Installs](https://vsmarketplacebadge.apphb.com/rating-short/matijarmk.dotnet-core-commands.svg)](https://marketplace.visualstudio.com/items?itemName=matijarmk.dotnet-core-commands)
 [![GitHub issues](https://img.shields.io/github/issues/matijarmk/dotnet-core-commands.svg)](https://github.com/matijarmk/dotnet-core-commands/issues)
 [![GitHub license](https://img.shields.io/github/license/matijarmk/dotnet-core-commands.svg)](https://github.com/matijarmk/dotnet-core-commands/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/matijarmk/dotnet-core-commands.svg)](https://github.com/matijarmk/dotnet-core-commands.svg/releases) [![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/matijarmk.dotnet-core-commands.svg)](https://vsmarketplacebadge.apphb.com/version-short/matijarmk.dotnet-core-commands.svg) 
+[![GitHub release](https://img.shields.io/github/release/matijarmk/dotnet-core-commands.svg)](https://github.com/matijarmk/dotnet-core-commands/releases) [![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/matijarmk.dotnet-core-commands.svg)](https://marketplace.visualstudio.com/items?itemName=matijarmk.dotnet-core-commands) 
 
 </h4>
 
