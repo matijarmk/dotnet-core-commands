@@ -4,12 +4,20 @@
   "description":
     "Dotnet core SKD commands, EntityFrameworkCore migrations and NuGet Package management",
   "license": "MIT License",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Matija Ramšak",
   "publisher": "matijarmk",
   "engines": {
     "vscode": "^1.20.0"
   },
+  "keywords": [
+    "C#", 
+    "core",
+    "csharp",
+    "NuGet",
+    "Entity Framework",
+    ".net"    
+  ],
   "icon": "images/Logo.png",
   "galleryBanner": {
     "color": "white",
