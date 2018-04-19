@@ -51,7 +51,7 @@ Run dotnet from VSCode command panel with default logging. By selecting the righ
 
 1. `.NET Core SDK` installation on your system from [microsoft](https://www.microsoft.com/net/download)
 
-2. Added DotNetCliToolReference on \*.cproj
+2. Added DotNetCliToolReference on \*.csproj
 
 ```xml
 <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" /> current version
