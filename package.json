@@ -5,8 +5,6 @@
     "Dotnet core SKD commands, EntityFrameworkCore migrations and NuGet Package management",
   "license": "MIT License",
   "version": "1.0.6",
-  "author": "Matija Ramšak",
-  "publisher": "matijarmk",
   "engines": {
     "vscode": "^1.20.0"
   },
@@ -43,7 +41,6 @@
   },
   "bugs": {
     "url": "https://github.com/matijarmk/dotnet-core-commands/issues",
-    "email": "matijarmk@gmail.com"
   },
   "repository": {
     "type": "git",
